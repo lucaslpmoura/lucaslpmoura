@@ -1,6 +1,5 @@
 ### Olá, me chamo Lucas e este é meu GitHub. Fique a vontade para dar uma olhada.
 ### Estudo Engenharia de Computação na UNIFEI.
-### Sou Desenvolvedor Fullstack na IE Tecnologia.
 
 
 ## Fale comigo:
